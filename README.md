@@ -1,6 +1,21 @@
 # TDD Calculator Kata
 ![Cobra Cat](https://image.spreadshirtmedia.net/image-server/v1/mp/products/T1459A839MPA4459PT28D189241670FS1749/views/1,width=378,height=378,appearanceId=839,backgroundColor=F2F2F2/divertidos-gatos-karate-camisa-cobra-gato-pegatina.jpg)
 
+## Pre-requisites
+- Python 3.8+
+- Virtualenv
+
+## Installation
+1. After cloning this repository go to the root of the `tdd-calculator-kata` folder that was just downloaded, the create the virtual environment with the right python version:
+
+
+`virtualenv -p python3.8 env`
+
+2. Activate the environment:
+
+
+`source env/bin/activate`
+
 ## Description 
 This is a kata for the facturedo team, in order to learn and improve testing skills with python.
 
