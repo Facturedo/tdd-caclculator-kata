@@ -16,6 +16,11 @@
 
 `source env/bin/activate`
 
+3. Install the dependencies:
+
+
+`pip install -r requirements.txt`
+
 ## Description 
 This is a kata for the facturedo team, in order to learn and improve testing skills with python.
 
