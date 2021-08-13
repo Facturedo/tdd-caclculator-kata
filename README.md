@@ -6,7 +6,7 @@
 - Virtualenv
 
 ## Installation
-1. After cloning this repository go to the root of the `tdd-calculator-kata` folder that was just downloaded, the create the virtual environment with the right python version:
+1. After cloning this repository go to the root of the `tdd-calculator-kata` folder that was just downloaded, then create the virtual environment with the right python version:
 
 
 `virtualenv -p python3.8 env`
@@ -27,7 +27,7 @@ This is an small exercise, but the complete kata may be found in https://osherov
 
 ———————————————
 
-int Add(string numbers)
+def add(numbers: str) -> int:
 
 ———————————————
 
