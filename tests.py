@@ -14,3 +14,8 @@ def test_one_number():
 def test_two_numbers():
     """If function is called with two numbers, they are added."""
     assert add("1,2") == 3
+
+def test_several_numbers():
+    """It function is called with several number, then it was added"""
+    assert add("1,2,3,4") == 10 
+
